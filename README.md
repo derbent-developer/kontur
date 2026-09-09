@@ -65,7 +65,7 @@ python3 -m http.server 8000 --directory ~/Desktop/kontur
 | Отзывы | `index.html`, секция `<section class="reviews">` |
 | Фото | `assets/img/`, ссылки в секциях «Фото» и «Результаты» |
 | Цвета | `assets/css/styles.css`, переменные в `:root` |
-| Домен для SEO | `<link rel="canonical">` в `<head>` — сейчас заглушка `kontur-derbent.derbent-dev.workers.dev` |
+| Домен для SEO | `<link rel="canonical">` в `<head>` — сейчас заглушка `derbent-developer.github.io/kontur` |
 
 ## Форма записи
 
